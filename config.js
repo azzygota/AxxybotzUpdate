@@ -48,7 +48,7 @@ global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 global.wame = 'https://wa.me/message/VOSK5XME6C3QJ1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6289513081052', '𝕬𝕯_𝕻𝕽𝕰𝕾𝖊𝕿  ꩜, true],
+['6289513081052', '𝕬𝕯_𝕻𝕽𝕰𝕾𝖊𝕿  ꩜', true],
 ['6289513081052', '𝕬𝕯_𝕻𝕽𝕰𝕾𝖊𝕿  ꩜', true]
 ]
 global.mods = []
